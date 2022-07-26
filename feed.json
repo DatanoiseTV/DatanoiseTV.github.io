@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DatanoiseTV",
+    "description": "",
+    "home_page_url": "https://DatanoiseTV.github.io",
+    "feed_url": "https://DatanoiseTV.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "DatanoiseTV"
+    },
+    "items": [
+        {
+            "id": "https://DatanoiseTV.github.io/hello-world.html",
+            "url": "https://DatanoiseTV.github.io/hello-world.html",
+            "title": "Hello World",
+            "summary": "This is a first one.",
+            "content_html": "<p>This is a first one.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://DatanoiseTV.github.io/media/posts/1/Schematic_sense_2022-07-22.png\" sizes=\"100vw\" srcset=\"https://DatanoiseTV.github.io/media/posts/1/responsive/Schematic_sense_2022-07-22-xs.png 300w ,https://DatanoiseTV.github.io/media/posts/1/responsive/Schematic_sense_2022-07-22-sm.png 480w ,https://DatanoiseTV.github.io/media/posts/1/responsive/Schematic_sense_2022-07-22-md.png 768w ,https://DatanoiseTV.github.io/media/posts/1/responsive/Schematic_sense_2022-07-22-lg.png 1024w ,https://DatanoiseTV.github.io/media/posts/1/responsive/Schematic_sense_2022-07-22-xl.png 1360w ,https://DatanoiseTV.github.io/media/posts/1/responsive/Schematic_sense_2022-07-22-2xl.png 1600w\"  alt=\"\" width=\"2479\" height=\"1754\"></figure>",
+            "author": {
+                "name": "DatanoiseTV"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-26T03:36:35+02:00",
+            "date_modified": "2022-07-26T03:36:35+02:00"
+        }
+    ]
+}
